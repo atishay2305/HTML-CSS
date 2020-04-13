@@ -1,0 +1,61 @@
+body {
+background-color: 	rgb(204, 0, 102)
+}
+.paraclass2
+{
+	text-align:center;
+	text-transform:capitalize;
+	letter-spacing:50px;
+	text-shadow:3px 2px white;
+	
+}
+
+p{
+	color:red;
+	font-size:100px;
+	font-family: Comic Sans MS;
+}
+.paraclass
+{
+	color:white;
+	padding-bottom:100px;
+	margin-left:200px;
+}
+ul.a 
+{
+	list-style-type:none;
+	text-align:center;
+	margin-left:50px;
+	margin-right:50px:
+	margin-bottom:50px;
+	margin-top:50px;
+}
+table
+{
+	border:solid;
+	border-color:red;
+	margin-left:500px;
+	border-shadow: 3px 2px white;
+}
+button
+{
+	background-color:red;
+	color:white;
+	border:black;
+	font-size:18px;
+	cursor:wait;
+	border-radius: 15px;
+	box-shadow: 0 9px #999;
+	margin-left: 100px;
+	text-style:italic;
+}
+button:visited{
+	color:blue;
+}
+button:hover{
+	color:yellow;
+}
+
+	
+	
+	
